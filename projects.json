@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Ladies Shoe",
+        "description1": "If users login then they can go to the dashboard and manage some tasks. Like he can see my orders, pay, add a review. Reviews are dynamic. After reviewing, the reviews will be added to the review section of the home page.",
+        "description2": "Admin can make another user an admin, if he wants.",
+        "description3": "There is an Admin panel. An admin can also manage some tasks. Like adding products, managing products, managing orders etc.",
+        "description4": "If the user doesn't login, click the purchase button then he will go to the login page. And after login success he will go to the purchase page automatically.",
+        "img1": "https://i.ibb.co/Qp0vr5n/Ladies-Shoe.png",
+        "img2": "https://i.ibb.co/PQ8XL9f/Ladies-Shoe-1.png",
+        "img3": "https://i.ibb.co/WBFfSGf/Ladies-Shoe-2.png",
+        "img4": "https://i.ibb.co/bzxPN3D/Ladies-Shoe-3.png",
+        "img5": "https://i.ibb.co/tBMQgcB/Ladies-Shoe-4.png",
+        "img6": "https://i.ibb.co/tBMQgcB/Ladies-Shoe-4.png",
+        "img7": "https://i.ibb.co/K2pK29M/Ladies-Shoe-6.png",
+        "img8": "https://i.ibb.co/xhhjtgx/Ladies-Shoe-7.png"
+    },
+    {
+        "id": 1,
+        "name": "Ladies Shoe",
+        "description1": "Allowing users to create accounts, browse packages, book packages and manage all services that he booked. Users also delete services from his booking services.",
+        "description2": "There are options for admin to add services and manage services.",
+        "description3": "Users will be able to know about the services by visiting the about page and contact with manager or admin by visiting the contact us page.",
+        "img1": "https://i.ibb.co/NYNtQNQ/World-Travel.png",
+        "img2": "https://i.ibb.co/LdnYs2S/World-Travel-1.png",
+        "img3": "https://i.ibb.co/zrMKwQx/World-Travel-2.png",
+        "img4": "https://i.ibb.co/SwfsnjT/World-Travel-3.png",
+        "img5": "https://i.ibb.co/R6fqrh4/World-Travel-4.png",
+        "img6": "https://i.ibb.co/CMy7B2v/World-Travel-5.png"
+    },
+    {
+        "id": 1,
+        "name": "Ladies Shoe",
+        "description1": "This is a good looking and responsive website. On this website there are many services for patients.",
+        "description2": "Users can register with an email-password or login with google or github.",
+        "description3": "After successful login, users can take the visit. After doing everything, the user can log out if he wants.",
+        "description4": "By visiting the contact us page, users can know all information about the services. There is a departments page and users can browse all departments.",
+        "img1": "https://i.ibb.co/QKbpCdX/MACGH-Mohter-and.png",
+        "img2": "https://i.ibb.co/0q5K5Mq/MACGH-Mohter-and-1.png",
+        "img3": "https://i.ibb.co/7VgjpLm/MACGH-Mohter-and-2.png"
+    }
+]
+
